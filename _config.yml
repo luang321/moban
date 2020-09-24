@@ -3,7 +3,7 @@ description: luang胡乱修改的模板.
 author: 森下下士
 avatar: /senxiaxia.jpg
 email: luhaoang@qq.com
-bdnd:baidu
+bdnd: baidu
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
